@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/demo-champloo/static/css/main.4b9e8e2b.chunk.css",
+    "main.js": "/demo-champloo/static/js/main.5d5c34c3.chunk.js",
+    "main.js.map": "/demo-champloo/static/js/main.5d5c34c3.chunk.js.map",
+    "runtime-main.js": "/demo-champloo/static/js/runtime-main.863657ef.js",
+    "runtime-main.js.map": "/demo-champloo/static/js/runtime-main.863657ef.js.map",
+    "static/js/2.cc6459ab.chunk.js": "/demo-champloo/static/js/2.cc6459ab.chunk.js",
+    "static/js/2.cc6459ab.chunk.js.map": "/demo-champloo/static/js/2.cc6459ab.chunk.js.map",
+    "static/css/3.3aced09c.chunk.css": "/demo-champloo/static/css/3.3aced09c.chunk.css",
+    "static/js/3.36044ad3.chunk.js": "/demo-champloo/static/js/3.36044ad3.chunk.js",
+    "static/js/3.36044ad3.chunk.js.map": "/demo-champloo/static/js/3.36044ad3.chunk.js.map",
+    "static/css/4.8ae63da3.chunk.css": "/demo-champloo/static/css/4.8ae63da3.chunk.css",
+    "static/js/4.be1824cd.chunk.js": "/demo-champloo/static/js/4.be1824cd.chunk.js",
+    "static/js/4.be1824cd.chunk.js.map": "/demo-champloo/static/js/4.be1824cd.chunk.js.map",
+    "index.html": "/demo-champloo/index.html",
+    "static/css/3.3aced09c.chunk.css.map": "/demo-champloo/static/css/3.3aced09c.chunk.css.map",
+    "static/css/4.8ae63da3.chunk.css.map": "/demo-champloo/static/css/4.8ae63da3.chunk.css.map",
+    "static/css/main.4b9e8e2b.chunk.css.map": "/demo-champloo/static/css/main.4b9e8e2b.chunk.css.map",
+    "static/js/2.cc6459ab.chunk.js.LICENSE.txt": "/demo-champloo/static/js/2.cc6459ab.chunk.js.LICENSE.txt",
+    "static/media/831.802470e9.gif": "/demo-champloo/static/media/831.802470e9.gif",
+    "static/media/user_generic2_black.c2ec548a.png": "/demo-champloo/static/media/user_generic2_black.c2ec548a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863657ef.js",
+    "static/js/2.cc6459ab.chunk.js",
+    "static/css/main.4b9e8e2b.chunk.css",
+    "static/js/main.5d5c34c3.chunk.js"
+  ]
+}
