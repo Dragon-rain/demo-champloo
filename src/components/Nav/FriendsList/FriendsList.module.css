@@ -1,0 +1,28 @@
+.profilePhoto img{
+    width: 30px;
+    height: 30px;
+    border-radius: 35px;
+    margin-top: 3px;
+    border: 1px powderblue solid;
+}
+
+.friend {
+    display: flex;
+    margin-top: 10px;
+    border: 1px powderblue solid;
+    border-radius: 5px;
+    padding: 3px;
+    align-items: center;
+    background-color: teal;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.friend:hover {
+    background-color: wheat;
+}
+
+.name {
+    margin: 5px;
+    color: white;
+}
